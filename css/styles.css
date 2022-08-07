@@ -1,0 +1,22 @@
+        p {
+            font-size: 30px;
+            color:yellowgreen;
+        }
+        div
+        {
+            font-size: 80px;
+            color: darkslategrey;
+        }
+        .my-custom-css-class
+        {
+            color:#9232ff; font-size: 20px; text-align: right; border:4px solid green
+        }
+        .my-custom-css-class
+        {
+            color:crimson;
+        }
+        #news-section
+        {
+            color:blue;
+            font: size 20px;
+        }
